@@ -29,10 +29,5 @@ public class Data {
 		catch(NegativeAgeException e){
 			System.out.println(e);
 		}
-		
-		
-		
-		
 	}
-	
 }
